@@ -57,10 +57,10 @@
       ><path d="M0 0 L0 55 L156 55 L156 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath18"
-      ><path d="M-139 -15 L278 -15 L278 30 L-139 30 L-139 -15 Z"
+      ><path d="M-115 -49 L230 -49 L230 98 L-115 98 L-115 -49 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath19"
-      ><path d="M-115 -49 L230 -49 L230 98 L-115 98 L-115 -49 Z"
+      ><path d="M-139 -15 L278 -15 L278 30 L-139 30 L-139 -15 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath20"
       ><path d="M0 0 L187 0 L187 104 L0 104 L0 0 Z"
@@ -163,8 +163,8 @@
       /><line y2="190" fill="none" x1="15" clip-path="url(#clipPath10)" x2="15" y1="0"
     /></g
     ><g font-size="11px" transform="translate(97.5,297.5) rotate(-90) translate(-95.5,-95.5)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="71" xml:space="preserve" y="13" clip-path="url(#clipPath13)" stroke="none"
-      >Biblioteca</text
+    ><text x="50" xml:space="preserve" y="13" clip-path="url(#clipPath13)" stroke="none"
+      >Biblioteca do ISEP</text
     ></g
     ><g font-size="11px" transform="translate(18,202)" fill-opacity="1" fill="rgb(135,220,245)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(135,220,245)" stroke-opacity="1"
     ><rect x="0" width="1008" height="191" y="0" clip-path="url(#clipPath14)" stroke="none"
@@ -229,15 +229,15 @@
     ><g fill-opacity="1" text-rendering="geometricPrecision" stroke="black" stroke-linecap="butt" transform="translate(836,286)" stroke-miterlimit="0" stroke-opacity="1" fill="black" stroke-width="3" font-family="sans-serif" stroke-linejoin="round" font-size="11px" image-rendering="optimizeQuality"
     ><circle fill="none" r="10" clip-path="url(#clipPath9)" cx="10" cy="10"
     /></g
-    ><g font-size="11px" transform="translate(171,310)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath18)" stroke="none"
-      >Receção da dissertação</text
-    ></g
     ><g font-size="11px" transform="translate(15,86)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="21" xml:space="preserve" y="21" clip-path="url(#clipPath19)" stroke="none"
+    ><text x="21" xml:space="preserve" y="21" clip-path="url(#clipPath18)" stroke="none"
       >Finalização da</text
-      ><text x="28" xml:space="preserve" y="36" clip-path="url(#clipPath19)" stroke="none"
+      ><text x="28" xml:space="preserve" y="36" clip-path="url(#clipPath18)" stroke="none"
       >dissertação</text
+    ></g
+    ><g font-size="11px" transform="translate(171,310)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
+    ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath19)" stroke="none"
+      >Receção da dissertação</text
     ></g
     ><g stroke-linecap="butt" font-size="11px" transform="translate(32,26)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
     ><line y2="50" fill="none" x1="50" clip-path="url(#clipPath21)" x2="133" y1="50"
