@@ -27,5 +27,4 @@ Repository for the Curricular Unit of "Informática nas Organizações", as lect
   	- [X] Devoluções Presenciais
 	- [X] Devoluções no Posto de Auto-Devolução
  	- [X] Controlo de Devoluções/Empréstimos
-  - [ ] Extravio ou Dano
   - [ ] Ofertas
