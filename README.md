@@ -24,8 +24,8 @@ Repository for the Curricular Unit of "Informática nas Organizações", as lect
 	- [ ] Requisições no Posto de Auto-Empréstimo
 	- [ ] Prazos para Empréstimo
   - [X] Devoluções
-  	- [ ] Devoluções Presenciais
-	- [ ] Devoluções no Posto de Auto-Devolução
- 	- [ ] Controlo de Devoluções/Empréstimos
+  	- [X] Devoluções Presenciais
+	- [X] Devoluções no Posto de Auto-Devolução
+ 	- [X] Controlo de Devoluções/Empréstimos
   - [ ] Extravio ou Dano
   - [ ] Ofertas
