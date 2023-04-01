@@ -7,6 +7,9 @@ Repository for the Curricular Unit of "Informática nas Organizações", as lect
 **Procedimentos:**
   - [ ] Aquisição
   - [X] Tratamento Técnico de Monografias
+  	- [X] Catalogação
+	- [X] Indexação
+	- [X] Classificação
   - [X] Tratamento Técnico de Disquetes/CD-ROM
   - [X] Tratamento Técnico de Dissertações
   - [X] Tratamento Técnico de E-Books
