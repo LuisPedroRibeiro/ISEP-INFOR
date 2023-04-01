@@ -207,19 +207,19 @@
       ><path d="M0 0 L207 0 L207 147 L0 147 L0 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath68"
-      ><path d="M0 0 L0 38 L3 38 L3 53 L0 53 L0 147 L207 147 L207 133 L171 133 L171 118 L207 118 L207 85 L171 85 L171 72 L207 72 L207 27 L135 27 L135 12 L207 12 L207 0 Z"
+      ><path d="M0 0 L0 38 L3 38 L3 53 L0 53 L0 147 L207 147 L207 133 L171 133 L171 118 L207 118 L207 80 L172 80 L172 67 L207 67 L207 27 L135 27 L135 12 L207 12 L207 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath69"
       ><path d="M0 0 L196 0 L196 136 L0 136 L0 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath70"
-      ><path d="M130 35 L130 50 L39 50 L39 35 ZM180 95 L180 108 L75 108 L75 95 ZM0 0 L0 136 L196 136 L196 0 Z"
+      ><path d="M130 35 L130 50 L39 50 L39 35 ZM181 90 L181 103 L76 103 L76 90 ZM0 0 L0 136 L196 136 L196 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath71"
       ><path d="M0 0 L352 0 L352 191 L0 191 L0 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath72"
-      ><path d="M158 4 L158 19 L67 19 L67 4 ZM208 64 L208 77 L103 77 L103 64 ZM150 110 L150 125 L103 125 L103 110 ZM0 0 L0 191 L352 191 L352 67 L333 67 L333 52 L352 52 L352 0 Z"
+      ><path d="M158 4 L158 19 L67 19 L67 4 ZM209 59 L209 72 L104 72 L104 59 ZM150 110 L150 125 L103 125 L103 110 ZM0 0 L0 191 L352 191 L352 67 L333 67 L333 52 L352 52 L352 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath73"
       ><path d="M0 0 L115 0 L115 515 L0 515 L0 0 Z"
@@ -228,10 +228,10 @@
       ><path d="M105 433 L105 449 L7 449 L7 433 ZM0 0 L0 515 L100 515 L100 511 L115 511 L115 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath75"
-      ><path d="M0 0 L115 0 L115 523 L0 523 L0 0 Z"
+      ><path d="M0 0 L104 0 L104 511 L0 511 L0 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath76"
-      ><path d="M0 0 L0 361 L5 361 L5 377 L0 377 L0 439 L114 439 L114 454 L0 454 L0 523 L115 523 L115 0 Z"
+      ><path d="M0 0 L0 434 L101 434 L101 449 L0 449 L0 511 L104 511 L104 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath77"
       ><path d="M0 0 L1336 0 L1336 201 L0 201 L0 0 Z"
@@ -579,7 +579,7 @@
     ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath41)" stroke="none"
       >Prazo ultrapassado</text
     ></g
-    ><g font-size="11px" transform="translate(1161.4286,577.75)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
+    ><g font-size="11px" transform="translate(1162.4286,572.75)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
     ><text x="9" xml:space="preserve" y="12" clip-path="url(#clipPath42)" stroke="none"
       >Tipo de Utilizador</text
     ></g
@@ -676,14 +676,14 @@
       /><polygon points=" 56 56 52 65 60 65" clip-path="url(#clipPath74)" stroke="none"
       /><polygon fill="none" clip-path="url(#clipPath74)" points=" 56 56 52 65 60 65" stroke="black"
     /></g
-    ><g fill-opacity="1" text-rendering="geometricPrecision" stroke="black" stroke-linecap="butt" transform="translate(1391.4286,126.75)" stroke-opacity="1" fill="black" stroke-dasharray="5" font-family="sans-serif" stroke-linejoin="round" font-size="11px" stroke-dashoffset="1" image-rendering="optimizeQuality"
-    ><line y2="56" fill="none" x1="56" clip-path="url(#clipPath76)" x2="56" y1="463"
+    ><g fill-opacity="1" text-rendering="geometricPrecision" stroke="black" stroke-linecap="butt" transform="translate(1404.4286,131.75)" stroke-opacity="1" fill="black" stroke-dasharray="5" font-family="sans-serif" stroke-linejoin="round" font-size="11px" stroke-dashoffset="1" image-rendering="optimizeQuality"
+    ><line y2="50" fill="none" x1="50" clip-path="url(#clipPath76)" x2="50" y1="457"
     /></g
-    ><g stroke-linecap="butt" font-size="11px" transform="translate(1391.4286,126.75)" fill-opacity="1" fill="rgb(244,244,244)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke-linejoin="round" stroke="rgb(244,244,244)" stroke-opacity="1"
-    ><circle r="3" clip-path="url(#clipPath76)" cx="56" cy="463" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath76)" cx="56" cy="463" stroke="black"
-      /><polygon points=" 56 56 52 65 60 65" clip-path="url(#clipPath76)" stroke="none"
-      /><polygon fill="none" clip-path="url(#clipPath76)" points=" 56 56 52 65 60 65" stroke="black"
+    ><g stroke-linecap="butt" font-size="11px" transform="translate(1404.4286,131.75)" fill-opacity="1" fill="rgb(244,244,244)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke-linejoin="round" stroke="rgb(244,244,244)" stroke-opacity="1"
+    ><circle r="3" clip-path="url(#clipPath76)" cx="50" cy="457" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath76)" cx="50" cy="457" stroke="black"
+      /><polygon points=" 50 50 46 59 54 59" clip-path="url(#clipPath76)" stroke="none"
+      /><polygon fill="none" clip-path="url(#clipPath76)" points=" 50 50 46 59 54 59" stroke="black"
     /></g
     ><g stroke-linecap="butt" font-size="11px" transform="translate(536.4286,-46.25)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
     ><path fill="none" d="M83 113 L83 90 C83 90 83 83 90 83 M90 83 L1241 83 C1241 83 1248 83 1248 90 M1248 90 L1248 113" clip-path="url(#clipPath78)"
