@@ -19,11 +19,11 @@ Repository for the Curricular Unit of "Informática nas Organizações", as lect
   	- [X] Arrumação de Disquetes e CD-ROM
   	- [X] Arrumação de Normas
   - [X] Conservação
-  - [ ] Requisições
+  - [X] Requisições
 	- [X] Primeira Requisição
-  	- [ ] Requisições Presenciais
+  	- [X] Requisições Presenciais
 	- [X] Requisições no Posto de Auto-Empréstimo
-	- [ ] Prazos para Empréstimo
+	- [X] Limite de Requisições
   - [X] Devoluções
   	- [X] Devoluções Presenciais
 	- [X] Devoluções no Posto de Auto-Devolução
