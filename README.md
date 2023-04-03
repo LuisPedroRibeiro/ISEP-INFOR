@@ -20,8 +20,9 @@ Repository for the Curricular Unit of "Informática nas Organizações", as lect
   	- [X] Arrumação de Normas
   - [X] Conservação
   - [ ] Requisições
+	- [X] Primeira Requisição
   	- [ ] Requisições Presenciais
-	- [ ] Requisições no Posto de Auto-Empréstimo
+	- [X] Requisições no Posto de Auto-Empréstimo
 	- [ ] Prazos para Empréstimo
   - [X] Devoluções
   	- [X] Devoluções Presenciais
