@@ -198,13 +198,13 @@
       ><path d="M0 0 L119 0 L119 62 L0 62 L0 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath65"
-      ><path d="M113 31 L113 46 L21 46 L21 31 ZM0 0 L0 62 L39 62 L39 54 L119 54 L119 0 Z"
+      ><path d="M88 0 L88 15 L0 15 L0 62 L39 62 L39 54 L119 54 L119 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath66"
       ><path d="M0 0 L221 0 L221 59 L0 59 L0 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath67"
-      ><path d="M0 0 L0 59 L96 59 L96 49 L144 49 L144 59 L221 59 L221 0 L144 0 L144 6 L39 6 L39 0 Z"
+      ><path d="M59 41 L59 56 L11 56 L11 41 ZM0 0 L0 59 L221 59 L221 0 L144 0 L144 6 L39 6 L39 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath68"
       ><path d="M0 0 L1206 0 L1206 71 L0 71 L0 0 Z"
@@ -302,8 +302,8 @@
       /><line y2="685" fill="none" x1="16" clip-path="url(#clipPath1)" x2="16" y1="0"
     /></g
     ><g font-size="11px" transform="translate(345,345) rotate(-90) translate(-343,-343)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="297" xml:space="preserve" y="13" clip-path="url(#clipPath5)" stroke="none"
-      >Biblioteca do ISEP</text
+    ><text x="330" xml:space="preserve" y="13" clip-path="url(#clipPath5)" stroke="none"
+      >ISEP</text
     ></g
     ><g font-size="11px" transform="translate(19,2)" fill-opacity="1" fill="rgb(135,220,245)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(135,220,245)" stroke-opacity="1"
     ><rect x="0" width="1988" height="287" y="0" clip-path="url(#clipPath6)" stroke="none"
@@ -710,11 +710,11 @@
     ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath92)" stroke="none"
       >Não</text
     ></g
-    ><g font-size="11px" transform="translate(1219,629)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
+    ><g font-size="11px" transform="translate(1134,621)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
     ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath93)" stroke="none"
       >Outro</text
     ></g
-    ><g font-size="11px" transform="translate(1144,549)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
+    ><g font-size="11px" transform="translate(1119,518)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
     ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath94)" stroke="none"
       >Aluno do ISEP</text
     ></g
