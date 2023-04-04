@@ -4,8 +4,8 @@ Repository for the Curricular Unit of "Informática nas Organizações", as lect
 
 ### Biblioteca
 
-**Procedimentos:**
-  - [ ] Aquisição
+**Procedimentos (BPMN):**
+  - [X] Aquisição
   	- [X] Tratamento Técnico de Monografias
   		- [X] Catalogação
 		- [X] Indexação
