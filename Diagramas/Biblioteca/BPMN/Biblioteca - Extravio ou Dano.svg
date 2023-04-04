@@ -45,10 +45,10 @@
       ><path d="M-9 -9 L33 -9 L33 33 L-9 33 L-9 -9 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath14"
-      ><path d="M-157 -15 L314 -15 L314 30 L-157 30 L-157 -15 Z"
+      ><path d="M-113 -35 L226 -35 L226 70 L-113 70 L-113 -35 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath15"
-      ><path d="M-113 -35 L226 -35 L226 70 L-113 70 L-113 -35 Z"
+      ><path d="M-157 -15 L314 -15 L314 30 L-157 30 L-157 -15 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath16"
       ><path d="M0 0 L191 0 L191 104 L0 104 L0 0 Z"
@@ -165,15 +165,15 @@
     ><g fill-opacity="1" text-rendering="geometricPrecision" stroke="black" stroke-linecap="butt" transform="translate(715,69)" stroke-miterlimit="0" stroke-opacity="1" fill="black" stroke-width="3" font-family="sans-serif" stroke-linejoin="round" font-size="11px" image-rendering="optimizeQuality"
     ><circle fill="none" r="10" clip-path="url(#clipPath13)" cx="10" cy="10"
     /></g
-    ><g font-size="11px" transform="translate(389,72)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath14)" stroke="none"
-      >Passível de indeminização?</text
-    ></g
     ><g font-size="11px" transform="translate(62,89)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="6" xml:space="preserve" y="14" clip-path="url(#clipPath15)" stroke="none"
+    ><text x="6" xml:space="preserve" y="14" clip-path="url(#clipPath14)" stroke="none"
       >Ocorrência de perda</text
-      ><text x="36" xml:space="preserve" y="29" clip-path="url(#clipPath15)" stroke="none"
+      ><text x="36" xml:space="preserve" y="29" clip-path="url(#clipPath14)" stroke="none"
       >ou dano</text
+    ></g
+    ><g font-size="11px" transform="translate(389,72)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
+    ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath15)" stroke="none"
+      >Passível de indeminização?</text
     ></g
     ><g stroke-linecap="butt" font-size="11px" transform="translate(78,29)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
     ><line y2="50" fill="none" x1="50" clip-path="url(#clipPath17)" x2="137" y1="50"
