@@ -43,7 +43,7 @@ Repository for the Curricular Unit of "Informática nas Organizações", as lect
   - [ ] Requisições
   - [ ] Devoluções
   - [ ] Tarefas do Responsável/Colaborador
-    	- [ ] Extravio ou Dano
+  	- [ ] Extravio ou Dano
   	- [ ] Ofertas
   	- [ ] Promoção da Utilização de Recursos Eletrónicos
 	- [ ] Organização do Conselho de Utilizadores
