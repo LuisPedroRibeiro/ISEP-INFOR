@@ -39,13 +39,12 @@ Repository for the Curricular Unit of "Informática nas Organizações", as lect
   	- [X] Processo de Aquisição
 	- [X] Tratamento Técnico
 	- [X] Arrumação
-  - [ ] Conservação
   - [ ] Requisições
   - [ ] Devoluções
-  - [ ] Tarefas do Responsável/Colaborador
-  	- [ ] Extravio ou Dano
-  	- [ ] Ofertas
-  	- [ ] Promoção da Utilização de Recursos Eletrónicos
-	- [ ] Organização do Conselho de Utilizadores
-	- [ ] Realização de Ações de Info-Literacia
-	- [ ] Arquivo
+  - [X] Tarefas do Responsável/Colaborador
+  	- [X] Extravio ou Dano
+  	- [X] Ofertas
+  	- [X] Promoção da Utilização de Recursos Eletrónicos
+	- [X] Organização do Conselho de Utilizadores
+	- [X] Realização de Ações de Info-Literacia
+	- [X] Conservação
