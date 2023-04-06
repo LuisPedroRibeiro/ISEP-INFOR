@@ -4,7 +4,7 @@ Repository for the Curricular Unit of "Informática nas Organizações", as lect
 
 ### Biblioteca
 
-**Procedimentos (BPMN):**
+**1. Procedimentos (BPMN):**
   - [X] Aquisição
   	- [X] Processo de Aquisição
   	- [X] Tratamento Técnico de Monografias
@@ -32,7 +32,9 @@ Repository for the Curricular Unit of "Informática nas Organizações", as lect
   - [X] Extravio ou Dano
   - [X] Ofertas
 
-**Casos de Uso (UCD):**
+<br>
+
+**2. Casos de Uso (UCD):**
   - [X] Aquisição
   	- [X] Processo de Aquisição
 	- [X] Tratamento Técnico
