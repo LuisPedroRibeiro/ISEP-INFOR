@@ -15,10 +15,10 @@
       ><path d="M0 0 L0 48 L170 48 L170 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath4"
-      ><path d="M-117 -15 L234 -15 L234 30 L-117 30 L-117 -15 Z"
+      ><path d="M-147 -15 L294 -15 L294 30 L-147 30 L-147 -15 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath5"
-      ><path d="M-147 -15 L294 -15 L294 30 L-147 30 L-147 -15 Z"
+      ><path d="M-117 -15 L234 -15 L234 30 L-117 30 L-117 -15 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath6"
       ><path d="M0 0 L204 0 L204 104 L0 104 L0 0 Z"
@@ -152,13 +152,13 @@
       /><line y2="60" fill="none" x1="15" clip-path="url(#clipPath1)" x2="0" y1="40"
       /><line y2="60" fill="none" x1="15" clip-path="url(#clipPath1)" x2="30" y1="40"
     /></g
-    ><g font-size="11px" transform="translate(546,137)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath4)" stroke="none"
-      >Presidente do ISEP</text
-    ></g
     ><g font-size="11px" transform="translate(2,218)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath5)" stroke="none"
+    ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath4)" stroke="none"
       >Colaborador da Biblioteca</text
+    ></g
+    ><g font-size="11px" transform="translate(546,137)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
+    ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath5)" stroke="none"
+      >Presidente do ISEP</text
     ></g
     ><g stroke-linecap="butt" font-size="11px" transform="translate(439,57)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
     ><line y2="50" fill="none" x1="50" clip-path="url(#clipPath7)" x2="150" y1="50"
