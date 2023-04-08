@@ -39,8 +39,9 @@ Repository for the Curricular Unit of "Informática nas Organizações", as lect
   	- [X] Processo de Aquisição
 	- [X] Tratamento Técnico
 	- [X] Arrumação
-  - [ ] Requisições
-  - [ ] Devoluções
+  - [X] Requisições
+  - [X] Devoluções
+  - [X] Controlo de Empréstimos
   - [X] Tarefas do Responsável/Colaborador
   	- [X] Extravio ou Dano
   	- [X] Ofertas
